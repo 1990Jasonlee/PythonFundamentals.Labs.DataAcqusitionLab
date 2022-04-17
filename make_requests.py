@@ -1,5 +1,5 @@
 import urllib.request
-import os
+
 file = 0
 
 while file < 39:
